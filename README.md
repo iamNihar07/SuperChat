@@ -1,5 +1,5 @@
 # CSE-3310-SuperChat Group 7 <br />
-# Alex Eseyin, David Miller, Henry Le, Nihar Gupte <br />
+Team members: Alex Eseyin, David Miller, Henry Le, Nihar Gupte <br />
 
 Superchat created for CSE 3310 - Spring 2019 <br />
 
